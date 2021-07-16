@@ -7,7 +7,7 @@ https://scholar.google.com/citations?user=VySHZL0AAAAJ&hl=en&oi=ao
 # PLEASE USE DARK MODE! # ⚠️
 
 - 🔭 I’m currently working on research projects about Deep Learning and Computer Vision.
-- 🌱 I’m currently learning Knowledge Distillation, Generative Adversarial Networks (GANS), Attention and Transformer networks.
+- 🌱 I’m currently learning Knowledge Distillation, Generative Adversarial Networks (GANs), Attention and Transformer networks for vision.
 - 👯 I’m looking to collaborate on a research involving my research interest.
 - 🤔 I’m looking for help in learning what I need to learn.
 - 💬 Ask me about ideas!
