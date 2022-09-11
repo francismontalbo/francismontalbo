@@ -2,7 +2,7 @@
 
 Here is my Google Scholar: Francis Jesmar P. Montalbo, FJP Montalbo
 
-https://scholar.google.com/citations?user=VySHZL0AAAAJ&hl=en&oi=ao
+<a href="https://scholar.google.com/citations?user=PV8dJDkAAAAJ&hl=en&oi=ao">Google Scholar Profile 🚀</a>
  
 # PLEASE USE DARK MODE! # ⚠️
 
