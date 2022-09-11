@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+I'am researcher working in the field of Artifical Intelligence 🧠, specifically Deep Learning 🤖.
+
 Here is my Google Scholar: Francis Jesmar P. Montalbo, FJP Montalbo
 
 <a href="https://scholar.google.com/citations?user=PV8dJDkAAAAJ&hl=en&oi=ao">Google Scholar Profile 🚀</a>
