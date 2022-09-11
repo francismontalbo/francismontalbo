@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'am researcher working in the field of Artifical Intelligence 🧠, specifically Deep Learning 🤖.
+I'am Dr. Francis Jesmar P. Montalbo, a researcher working in the field of Artifical Intelligence 🧠, specifically Deep Learning 🤖.
 
 Here is my Google Scholar: Francis Jesmar P. Montalbo, FJP Montalbo
 
