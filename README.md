@@ -2,9 +2,7 @@
 
 I'am Dr. Francis Jesmar P. Montalbo (FJP Montalbo), a researcher working in the field of Artifical Intelligence 🧠, specifically Deep Learning 🤖.
 
-Here is my Google Scholar:
-
-<a href="https://scholar.google.com/citations?user=PV8dJDkAAAAJ&hl=en&oi=ao">Google Scholar Profile 🚀</a>
+Here is my Google Scholar: <a href="https://scholar.google.com/citations?user=PV8dJDkAAAAJ&hl=en&oi=ao">Google Scholar Profile 🚀</a>
  
 # PLEASE USE DARK MODE! # ⚠️
 
