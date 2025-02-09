@@ -3,7 +3,7 @@
 I’m **Dr. Francis Jesmar P. Montalbo** (FJP Montalbo), a **Filipino researcher, author, software developer, and Associate Professor** specializing in **Computer Vision, Deep Learning, Data Science, Biomedical Signal Processing, and Software Development**. Passionate about pushing the boundaries of AI and software engineering, I explore cutting-edge models and methodologies to solve real-world problems.
 
 ## 🚀 Research & Interests  
-- 🔭 Currently working on **Deep Learning, Computer Vision, and Software Development** projects.  
+- 🔭 Currently working on **Deep Learning, Computer Vision, Data Science, and Software Development** projects.  
 - 🌱 Exploring **State Space Models (SSM), Knowledge Distillation, Generative Adversarial Networks (GANs), Attention Mechanisms, and Transformer-based Vision Models**.  
 - 👨‍💻 Passionate about **developing scalable software solutions** and AI-driven applications.  
 - 👯 Open to research collaborations and software development projects in my areas of interest.  
@@ -23,20 +23,37 @@ I’m **Dr. Francis Jesmar P. Montalbo** (FJP Montalbo), a **Filipino researcher
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+
+### **📊 Data Science & Big Data**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ### **🖥️ Web & App Development**
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+### **🖥️ Servers & Deployment**
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+
 ### **🎨 Markup & Styling**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **📖 Documentation & Writing**
+![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=for-the-badge&logo=sphinx&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### **💾 Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -60,12 +77,6 @@ I’m **Dr. Francis Jesmar P. Montalbo** (FJP Montalbo), a **Filipino researcher
 ## 📫 Connect with Me  
 📩 **Email:** [francismontalbo@ieee.org](mailto:francismontalbo@ieee.org) | [francisjesmar.montalbo@g.batstate-u.edu.ph](mailto:francisjesmar.montalbo@g.batstate-u.edu.ph)  
 📖 **Google Scholar:** [View my research works 🚀](https://scholar.google.com/citations?user=PV8dJDkAAAAJ&hl=en&oi=ao)  
-
----
-
-## ⚡ Fun Facts  
-- 🎮 I enjoy **gaming** and **fitness** to balance work and play.  
-- 🌐 Advocate of **open-source research, software development, and knowledge sharing**.  
 
 ---
 
