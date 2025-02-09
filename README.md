@@ -1,10 +1,27 @@
-# Hi there! 👋 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=AI+Researcher+%7C+Software+Developer+%7C+Educator;Data+Scientist+%7C+Open-Source+Contributor;Deep+Learning+Enthusiast+%7C+ML+Engineer)
+<div align="center">
+
+# Hi there! 👋 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=8&pause=700&color=F7B500&center=true&vCenter=true&width=600&height=25&lines=AI+Researcher+%7C+Developer;Data+Scientist+%7C+Open-Source">
+</p>
+
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=francismontalbo&color=blue&style=flat-square)
 
-I’m **Dr. Francis Jesmar P. Montalbo** (FJP Montalbo), a **Filipino research scientist, author, software developer, and Associate Professor** specializing in **Computer Vision, Deep Learning, Data Science, Biomedical Signal Processing, and App Development**. Passionate about pushing the boundaries of AI and software engineering, I explore cutting-edge models and methodologies to solve real-world problems.
+</div>
 
-## 🚀 Research & Interests  
+---
+
+## 🚀 About Me  
+I’m **Dr. Francis Jesmar P. Montalbo** (FJP Montalbo), a **Filipino research scientist, author, software developer, and Associate Professor** specializing in **Computer Vision, Deep Learning, Data Science, Biomedical Signal Processing, and App Development**.  
+✨ Passionate about pushing the boundaries of **AI and software engineering**, I explore cutting-edge models and methodologies to solve real-world problems.
+
+---
+
+## 📌 Research & Interests  
+
 - 🔭 Currently working on **Deep Learning, Computer Vision, Data Science, and Software Development** projects.  
 - 🌱 Exploring **State Space Models (SSM), Knowledge Distillation, Generative Adversarial Networks (GANs), Attention Mechanisms, and Transformer-based Vision Models**.  
 - 👨‍💻 Passionate about **developing scalable software solutions** and AI-driven applications.  
@@ -43,36 +60,28 @@ I’m **Dr. Francis Jesmar P. Montalbo** (FJP Montalbo), a **Filipino research s
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **🖥️ Servers & Deployment**
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 
-### **🎨 Markup & Styling**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### **📖 Documentation & Writing**
-![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=for-the-badge&logo=sphinx&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### **💾 Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **📦 DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### **🚀 Agile & Project Management**
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=francismontalbo&show_icons=true&theme=onedark" />
+</p>
 
 ---
 
 ## 🌐 My Personal Website  
-🔗 **Visit my page:** [francismontalbo.github.io](https://francismontalbo.github.io/)
+<p align="center">
+  <a href="https://francismontalbo.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/My Website-Click Here-blue?style=for-the-badge&logo=google-chrome">
+  </a>
+</p>
 
 ---
 
@@ -81,7 +90,3 @@ I’m **Dr. Francis Jesmar P. Montalbo** (FJP Montalbo), a **Filipino research s
 📖 **Google Scholar:** [View my research works 🚀](https://scholar.google.com/citations?user=PV8dJDkAAAAJ&hl=en&oi=ao)  
 
 ---
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francismontalbo&show_icons=true&theme=onedark)
-
