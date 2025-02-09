@@ -1,6 +1,8 @@
-# Hi there! 👋 Welcome to my GitHub!
+# Hi there! 👋 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=AI+Researcher+%7C+Software+Developer+%7C+Educator;Data+Scientist+%7C+Open-Source+Contributor;Deep+Learning+Enthusiast+%7C+ML+Engineer)
 
-I’m **Dr. Francis Jesmar P. Montalbo** (FJP Montalbo), a **Filipino researcher, author, software developer, and Associate Professor** specializing in **Computer Vision, Deep Learning, Data Science, Biomedical Signal Processing, and Software Development**. Passionate about pushing the boundaries of AI and software engineering, I explore cutting-edge models and methodologies to solve real-world problems.
+![Visitor Count](https://komarev.com/ghpvc/?username=francismontalbo&color=blue&style=flat-square)
+
+I’m **Dr. Francis Jesmar P. Montalbo** (FJP Montalbo), a **Filipino research scientist, author, software developer, and Associate Professor** specializing in **Computer Vision, Deep Learning, Data Science, Biomedical Signal Processing, and App Development**. Passionate about pushing the boundaries of AI and software engineering, I explore cutting-edge models and methodologies to solve real-world problems.
 
 ## 🚀 Research & Interests  
 - 🔭 Currently working on **Deep Learning, Computer Vision, Data Science, and Software Development** projects.  
@@ -82,3 +84,4 @@ I’m **Dr. Francis Jesmar P. Montalbo** (FJP Montalbo), a **Filipino researcher
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francismontalbo&show_icons=true&theme=onedark)
+
