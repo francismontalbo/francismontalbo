@@ -23,7 +23,7 @@ I’m **Dr. Francis Jesmar P. Montalbo** (FJP Montalbo), a **Filipino research s
 ## 📌 Research & Interests  
 
 - 🔭 Currently working on **Deep Learning, Computer Vision, Data Science, and Software Development** projects.  
-- 🌱 Exploring **State Space Models (SSM), Knowledge Distillation, Generative Adversarial Networks (GANs), Attention Mechanisms, and Transformer-based Vision Models**.  
+- 🌱 Exploring **State Space Models (SSM), Knowledge Distillation, Generative Adversarial Networks (GANs), Attention Mechanisms, Quantum-inspired Models, Semi-Supervised Learning, and Transformer-based Vision Models**.  
 - 👨‍💻 Passionate about **developing scalable software solutions** and AI-driven applications.  
 - 👯 Open to research collaborations and software development projects in my areas of interest.  
 - 🤔 Always eager to learn and share insights on AI, ML, and emerging technologies.  
